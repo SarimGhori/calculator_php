@@ -54,6 +54,5 @@ You can use, modify, or distribute it freely.
 Beginner Web Developer (PHP • HTML • CSS • JS)
 
 
-![Uploading cal.png…]("cal.png");
 
 
