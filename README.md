@@ -52,6 +52,8 @@ You can use, modify, or distribute it freely.
 
 <h1>Sarim Ghori</h1>
 Beginner Web Developer (PHP • HTML • CSS • JS)
+
+
 <p align="center">
 <img width="528" height="539" alt="calculator" src="https://github.com/user-attachments/assets/77c33e24-182d-4130-8f45-01891117d0ab" />
 </p>
